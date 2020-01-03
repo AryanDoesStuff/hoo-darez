@@ -1,0 +1,24 @@
+body{
+  background-color: #7842f5;
+}
+.round{
+
+  border: 30px solid orange;
+  border-top: 0px none green;
+  background-color:blue;
+  text-align: center;
+}
+h1{
+  font-size: 50px;
+  color: orange;
+}
+#Submit{
+
+  padding: 30px 50px;
+  color: purple;
+  background-color: orange;
+  font-size:
+  border:none;
+  border-radius: 20px;
+
+}
